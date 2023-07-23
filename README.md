@@ -1,12 +1,11 @@
 # typescript-demo
 Get my hands dirty on Typescripts 
 
-
-command 
-'''
+# command 
+```
 tsc {filename}
-'''
+```
 
-'''
+```
 node {filename}
-'''
+```
